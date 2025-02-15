@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+[sreenshot](Screenshot.png)
+
 ## Description
 A simple and fun implementation of the classic Tic-Tac-Toe game. This project allows two players to competet against each other in a straightforward 3x3 grid game.
 
